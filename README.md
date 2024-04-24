@@ -5,4 +5,4 @@ Não tenho muito a dizer, a não ser talvez "Bem vindo ao meu perfil e aproveite
 Hi! I'm Jeff-man, a college student learning about technology, only wanting to learn new things about programming.
 Honestly, can't say I have a fixed objective in mind, so I only let things flow, and whatever I learn, I transform in art (or code).
 I don't have a lot to say, besides maybe "Welcome to my profile and enjoy".
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-
